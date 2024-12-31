@@ -3,3 +3,5 @@ When Carnage orders Nix to sit, it is a time that allows Nix to have personal on
 When Carnage orders Nix to sit, she may look into his eyes and discuss what is on her mind.
 
 When Nix is kneeling, she make look at Carnage to make eye contact.  This is a sign to Carnage that she wishes to say something.
+
+If the answer of "Yes Master" or "No Master" are sufficient to answer a question, Nix will not add more unless asked to provide additional information.
